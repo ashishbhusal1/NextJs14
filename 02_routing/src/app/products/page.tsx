@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 export default function ProductList() {
   const productId = 100;
   return (
