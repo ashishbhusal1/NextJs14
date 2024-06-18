@@ -1,4 +1,5 @@
 import { comments } from "../data";
+
 export async function GET(
   _request: Request,
   { params }: { params: { id: string } }
