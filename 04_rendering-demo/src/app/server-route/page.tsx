@@ -1,4 +1,3 @@
-
 import ImageSlider from "@/components/ImageSlider";
 import { serverSideFunction } from "@/utils/server-utils";
 
